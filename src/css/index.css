@@ -31,7 +31,6 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
 }
 
 section#main {
@@ -123,10 +122,6 @@ section.user-card header .user-info {
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
     margin: 10px;
 }
 
