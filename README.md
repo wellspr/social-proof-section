@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-using-flexbox-SkevgyMS9](https://www.frontendmentor.io/solutions/social-proof-section-using-flexbox-SkevgyMS9)
 - Live Site URL: [https://social-proof-section-wellspr.vercel.app/](https://social-proof-section-wellspr.vercel.app/)
 
 ## My process
